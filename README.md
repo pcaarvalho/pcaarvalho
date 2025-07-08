@@ -63,9 +63,8 @@
   
 | Projeto | Descrição | Tech Stack |
 |---------|-----------|------------|
-| [**🔍 Detecção de IA**](https://github.com/pcaarvalho/deteccao-de-ia) | Sistema avançado para detectar conteúdo gerado por IA usando técnicas de ML | `Python` `TensorFlow` `FastAPI` |
-| [**✅ TrueCheck IA**](https://github.com/pcaarvalho/truecheck-ia) | Plataforma de verificação de fatos usando IA para combater desinformação | `Django` `OpenAI` `PostgreSQL` |
-| [**🏥 ConsultaCBMEPI**](https://github.com/pcaarvalho/consultacbmepi) | API para consulta e integração com sistemas médicos e epidemiológicos | `FastAPI` `Redis` `Docker` |
+| [** TrueCheck IA**](https://github.com/pcaarvalho/truecheck-ia) |Sistema avançado para detectar conteúdo gerado por IA usando técnicas de ML | `Python` `TensorFlow` `FastAPI`|
+| [** ConsultaCBMEPI**](https://github.com/pcaarvalho/consultacbmepi) | API para consulta de instrucoes tecnicas do corpo de bombeiros militar do Piaui | `FastAPI` `Redis` `Docker` |
 
 </div>
 
